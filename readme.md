@@ -23,7 +23,6 @@ The generator and critic are trained in an adversarial process. The generator tr
 ## Running the Script:
 
 1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
 3. Download the Anime Face Dataset (instructions provided in the dataset source).
 4. Update the dataset path in the `load_dataset` function within the script (`anime_facegen.py`).
 5. Run the script using `python anime_facegen.py`.
